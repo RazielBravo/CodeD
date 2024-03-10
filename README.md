@@ -1,1 +1,2 @@
-These are some programs in C programming language
+These are some programs in C programming language.
+Only projects
